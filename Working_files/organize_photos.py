@@ -1,7 +1,11 @@
+import os
+
 # 1. Get a list of the file names
+os.chdir("Photos")
+originals = os.listdir()
+print(originals)
 # 2. Extract the place names from the file names
 # 3. Make a directory for each place name
 # 4. Move files into the right directories
-# os.mkdir Make a new directory, os.listdir List files in a directory, os.rename Move a file from a directory to another
-
-import os
+# os.mkdir = mkdir touch, os.listdir = ls, os.rename = mv
+# os.getcwd() = pwd, os.chdir = cd, os.path.join() = os.path.join("Documents", "Photos", "Oahu") = 'Documents/Photos/Oahu'
