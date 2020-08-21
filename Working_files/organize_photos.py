@@ -28,9 +28,17 @@ print("Result: " ,extract_place("2016-11-04_Berlin_09/42/22.jpg"))
 print("Result: " ,extract_place2("2016-11-04_Berlin_09/42/22.jpg"))
 print("Result: " ,extract_place3("2016-11-04_Berlin_09/42/22.jpg"))
 # 3. Make a directory for each place name
+
+def make_directories(places):
+    for x in places:
+        os.mkdir(x)
+
 originals2=[]
+
 for x in range(len(originals)):
-    originals2.append(extract_place3(originals[x]))
+    places = extract_place3(originals[x])
+    if places not in originals2:
+        originals2.append(places)
 
 print(originals2)
 
