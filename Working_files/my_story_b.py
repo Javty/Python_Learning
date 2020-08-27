@@ -1,0 +1,29 @@
+#print(f"Hello world {variable}")
+import string
+rude_words = ["feo", "chiquito", "hola", "que", "hace"]
+
+def check_line(line):
+    rude_count = 0
+    words = line.split(" ")
+    for word in words:
+        word = word.strip(string.punctuation)
+        if word.lower() in rude_words:
+            rude_count += 1
+            print(f"found rude word: {word}")
+    return rude_count
+
+def check_file(story):
+    with open(story) as my_story:
+        rude_count = 0
+        for line in my_story:
+                #print(line)
+                rude_count += check_line(line)
+
+    if rude_count == 0:
+        print("Congratulations, your file has no rude words.")
+        print("At least, no rude words I know.")
+    else:
+        print(f"you have {rude_count} rude words")
+
+if __name__ == '__main__':
+    check_file("my_story.txt")
