@@ -1,0 +1,4 @@
+What even is an API?
+The term API is used quite broadly, and if you look it up you'll find a number of different definitions (some of which are rather difficult to understand). But the key underlying idea is in the name—Application Programming Interface. An API is an interface. It's something that has been created to help two different applications interact with one another.
+
+For example, in this lesson you'll be working with an online service, MetaWeather, that aggregates data on weather forecasts. And you'll be writing a Python program to display that weather data. In order for these two systems to interact, we need an interface between them—something that allows your Python code to make requests to the MetaWeather service and receive back responses with data that it can interpret meaningfully. And that's what an API is for. MetaWeather provide an API so that there's a standardized way for other program to communicate with it.
