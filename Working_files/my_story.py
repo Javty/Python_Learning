@@ -2,7 +2,7 @@
 def check(story):
     rude_words = ["feo", "chiquito", "hola", "que", "hace"]
 with open("my_story.txt") as my_story:
-    contents = my_story.read()
+    contents = my_mystory.read()
     rude_count = 0
     for rude in rude_words:
         if rude in contents:
