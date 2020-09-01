@@ -16,3 +16,4 @@ if r.status_code == 404:
     print("Page not found.")
 
 JSON:
+is just a format - it is a way to structure data so that it is easy to make use of the data from code written in many different languages
