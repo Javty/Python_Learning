@@ -27,8 +27,6 @@ class Dog:
     def hear(self, words):
         if self.name in words:
             self.speak()
-        else:
-            print("This string does not have the dog's name in it.")
 
 class Chihuahua(Dog):
     origin = "Mexico"
@@ -45,17 +43,19 @@ class Husky(Dog):
 class Viejo_pastor_ingles():
     pass
 
+class Labrador(Dog):
+    origin = "Canada"
+
+
 class TrainedChihuahua(Chihuahua):
     def do_trick(self):
         print("The chihuahua spins in the air and turns briefly into a chicken.")
 
 
-
-
-
-
-
 class Cat:
+
+    def __init__(self):
+        self.mood = "neutral"
 
     def speak(self):
         if self.mood == "happy":
@@ -64,6 +64,3 @@ class Cat:
             print("Hiss!")
         else:
             print("Meow!")
-
-    def __init__(self):
-        self.mood = "neutral"
