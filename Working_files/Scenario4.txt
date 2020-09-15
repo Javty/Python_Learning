@@ -1,0 +1,25 @@
+Cancela la ruta
+Detén la ruta
+Por favor detén la ruta
+Por favor cancela la ruta
+Termina la ruta
+Por favor termina la ruta
+Cancela la navegación
+Detén la navegación
+Por favor detén la navegación
+Por favor cancela la navegación
+Termina la navegación
+Por favor termina la navegación
+Cancela el viaje
+Detén el viaje
+Por favor detén el viaje
+Por favor cancela el viaje
+Termina el viaje
+Por favor termina el viaje
+Cancela el destino
+Detén el destino
+Por favor detén el destino
+Por favor cancela el destino
+Termina el destino
+Por favor termina el destino
+Termina la ruta

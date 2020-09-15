@@ -16,7 +16,6 @@ def check_file(story):
     with open(story) as my_story:
         rude_count = 0
         for line in my_story:
-                #print(line)
                 rude_count += check_line(line)
 
     if rude_count == 0:

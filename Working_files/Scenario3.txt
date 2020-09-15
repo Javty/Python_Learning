@@ -1,0 +1,25 @@
+Llevame a la Casa
+Dame la dirección de la Casa
+Por favor llevame a la Casa
+Obten direcciones para la Casa
+Por favor dame la dirección de la Casa
+amos hacia la Guardería
+Yo quiero ir la Guardería
+Me gustaría ir para la Guardería
+Obten la dirección la Guardería
+Por favor llevame para la Guardería
+Obten direcciones para la Escuela
+Por favor dame la dirección de la Escuela
+Vamos hacia la Escuela
+Yo quiero ir la Escuela
+Me gustaría ir para la Escuela
+Vamos hacia la Biblioteca
+Yo quiero ir la Biblioteca
+Me gustaría ir para la Biblioteca
+Obten la dirección la Biblioteca
+Por favor llevame para la Biblioteca
+Me gustaría ir para el Trabajo
+Obten la dirección del Trabajo
+Por favor llevame para el Trabajo
+Necesito que me lleves al Trabajo
+Quiero la dirección del Trabajo

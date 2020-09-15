@@ -1,0 +1,61 @@
+Llevame al Trabajo
+Dame la dirección del Trabajo
+Por favor llevame al Trabajo
+Obten direcciones para el Trabajo
+Por favor dame la dirección del Trabajo
+Vamos hacia el Trabajo
+Yo quiero ir al Trabajo
+
+Llevame hacia el Trabajo
+Llevame al Lab ciento veintiseis
+Dame la dirección del Lab ciento veintiseis
+Por favor llevame al Lab ciento veintiseis
+Obten direcciones para el Lab ciento veintiseis
+Por favor dame la dirección del Lab ciento veintiseis
+Vamos hacia el Lab ciento veintiseis
+Yo quiero ir al Lab ciento veintiseis
+Me gustaría ir para el Lab ciento veintiseis
+Obten la dirección del Lab ciento veintiseis
+Por favor llevame para el Lab ciento veintiseis
+Necesito que me lleves al Lab ciento veintiseis
+Quiero la dirección del Lab ciento veintiseis
+Llevame hacia el Lab ciento veintiseis
+Llevame al Aeropuerto de la ciudad de Mexico
+Dame la dirección del Aeropuerto de la ciudad de Mexico
+Por favor llevame al Aeropuerto de la ciudad de Mexico
+Obten direcciones para el Aeropuerto de la ciudad de Mexico
+Por favor dame la dirección del Aeropuerto de la ciudad de Mexico
+Vamos hacia el Aeropuerto de la ciudad de Mexico
+Yo quiero ir al Aeropuerto de la ciudad de Mexico
+Me gustaría ir para el Aeropuerto de la ciudad de Mexico
+Obten la dirección del Aeropuerto de la ciudad de Mexico
+Por favor llevame para el Aeropuerto de la ciudad de Mexico
+Necesito que me lleves al Aeropuerto de la ciudad de Mexico
+Quiero la dirección del Aeropuerto de la ciudad de Mexico
+Llevame hacia el Aeropuerto de la ciudad de Mexico
+Llevame al Parque
+Dame la dirección del Parque
+Por favor llevame al Parque
+Obten direcciones para el Parque
+Por favor dame la dirección del Parque
+Vamos hacia el Parque
+Yo quiero ir al Parque
+Me gustaría ir para el Parque
+Obten la dirección del Parque
+Por favor llevame para el Parque
+Necesito que me lleves al Parque
+Quiero la dirección del Parque
+Llevame hacia el Parque
+Llevame al Castillo de Chapultepec
+Dame la dirección del Castillo de Chapultepec
+Por favor llevame al Castillo de Chapultepec
+Obten direcciones para el Castillo de Chapultepec
+Por favor dame la dirección del Castillo de Chapultepec
+Vamos hacia el Castillo de Chapultepec
+Yo quiero ir al Castillo de Chapultepec
+Me gustaría ir para el Castillo de Chapultepec
+Obten la dirección del Castillo de Chapultepec
+Por favor llevame para el Castillo de Chapultepec
+Necesito que me lleves al Castillo de Chapultepec
+Quiero la dirección del Castillo de Chapultepec
+Llevame hacia el Castillo de Chapultepec
