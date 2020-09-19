@@ -1,0 +1,560 @@
+Llevame al Gimnasio
+Dame la direccion del Gimnasio
+Por favor llevame al Gimnasio
+Obten direcciones para el Gimnasio
+Por favor dame la direccion del Gimnasio
+Vamos hacia el Gimnasio
+Yo quiero ir al Gimnasio
+Me gustaria ir para el Gimnasio
+Obten la direccion del Gimnasio
+Por favor llevame para el Gimnasio
+Necesito que me lleves al Gimnasio
+Quiero la direccion del Gimnasio
+Llevame hacia el Gimnasio
+Llevame al Gimnasio
+Dame la direccion del Gimnasio
+Por favor llevame al Gimnasio
+Obten direcciones para el Gimnasio
+Por favor dame la direccion del Gimnasio
+Vamos hacia el Gimnasio
+Yo quiero ir al Gimnasio
+Me gustaria ir para el Gimnasio
+Obten la direccion del Gimnasio
+Por favor llevame para el Gimnasio
+Necesito que me lleves al Gimnasio
+Quiero la direccion del Gimnasio
+Llevame al Aeropuerto
+Dame la direccion del Aeropuerto
+Por favor llevame al Aeropuerto
+Obten direcciones para el Aeropuerto
+Por favor dame la direccion del Aeropuerto
+Vamos hacia el Aeropuerto
+Yo quiero ir al Aeropuerto
+Me gustaria ir para el Aeropuerto
+Obten la direccion del Aeropuerto
+Por favor llevame para el Aeropuerto
+Necesito que me lleves al Aeropuerto
+Quiero la direccion del Aeropuerto
+Llevame hacia el Aeropuerto
+Cancela la ruta
+Cancela el viaje
+Cancela la navegacion
+Cancela el viaje
+Cancelar ruta
+Llevame al Aeropuerto
+Dame la direccion del Aeropuerto
+Por favor llevame al Aeropuerto
+Obten direcciones para el Aeropuerto
+Por favor dame la direccion del Aeropuerto
+Vamos hacia el Aeropuerto
+Yo quiero ir al Aeropuerto
+Llevame a la Casa
+Dame la direccion de la Casa
+Por favor llevame a la Casa
+Obten direcciones para la Casa
+Por favor dame la direccion de la Casa
+Vamos hacia la Guarderia
+Yo quiero ir la Guarderia
+Me gustaria ir para la Guarderia
+Obten la direccion la Guarderia
+Por favor llevame para la Guarderia
+Obten direcciones para la Escuela
+Por favor dame la direccion de la Escuela
+Vamos hacia la Escuela
+Yo quiero ir la Escuela
+Me gustaria ir para la Escuela
+Vamos hacia la Biblioteca
+Yo quiero ir la Biblioteca
+Me gustaria ir para la Biblioteca
+Obten la direccion la Biblioteca
+Por favor llevame para la Biblioteca
+Me gustaria ir para el Trabajo
+Obten la direccion del Trabajo
+Por favor llevame para el Trabajo
+Necesito que me lleves al Trabajo
+Quiero la direccion del Trabajo
+Cancela la ruta
+Deten la ruta
+Por favor deten la ruta
+Por favor cancela la ruta
+Termina la ruta
+Por favor termina la ruta
+Cancela la navegacion
+Deten la navegacion
+Por favor deten la navegacion
+Por favor cancela la navegacion
+Termina la navegacion
+Por favor termina la navegacion
+Cancela el viaje
+Deten el viaje
+Por favor deten el viaje
+Por favor cancela el viaje
+Termina el viaje
+Por favor termina el viaje
+Cancela el destino
+Deten el destino
+Por favor deten el destino
+Por favor cancela el destino
+Termina el destino
+Por favor termina el destino
+Termina la ruta
+Llama al 1235512
+Marca al 1235512
+Por favor marca al 1235512
+Haz una llamada al 1235512
+Por favor llama al 1235512
+Cuelga la llamada
+Realiza una llamada al 1235512
+Llama al 1234
+Termina la llamada
+Por favor marca al 1234
+Por favor cuelga
+Por favor termina la llamada
+Realiza una llamada al 1234
+Llama al 45633
+Marca al 45633
+Por favor marca al 45633
+Haz una llamada al 45633
+Por favor llama al 45633
+Cuelga por favor
+Llama al 54321
+Cuelgale a Lucia Naira
+Marca a Lucia Naira
+Por favor marca de nuevo a Lucia Naira
+Haz una llamada a Lucia Naira
+Por favor llama a Lucia Naira
+Realiza una llamada a Lucia Naira
+Llama de nuevo a Sofia Idaira
+Marca a Sofia Idaira
+Por favor marca a Sofia Idaira
+Haz una llamada a Sofia Idaira
+Por favor llama a Sofia Idaira
+Realiza una llamada a Sofia Idaira
+Llama a Maria Dacil
+Marca a Maria Dacil
+Por favor marca a Maria Dacil
+Haz una llamada a Maria Dacil
+Por favor llama a Maria Dacil
+Realiza una llamada a Maria Dacil
+Termina la llamada de Jon Rodriguez
+Marca de nuevo a Jon Rodriguez
+Marca el 0
+Marca 0
+Por favor marca 0
+Presiona el 0
+Aprieta el 0
+Marca el 1
+Marca 1
+Por favor marca 1
+Presiona el 1
+Aprieta el 1
+Marca el 8
+Marca 8
+Por favor marca 8
+Presiona el 8
+Aprieta el 8
+Marca el 7
+Marca 7
+Por favor marca 7
+Presiona el 7
+Aprieta el 7
+Por favor llama a la Policia
+Llama a la Policia
+Marca a la Policia
+Realiza una llamada a la Policia
+Por favor marca a la Policia
+Marca por favor a la Policia
+Por favor llama a la Emergencias
+Llama a Emergencias
+Marca a Emergencias
+Realiza una llamada a Emergencias
+Por favor marca a Emergencias
+Marca por favor a Emergencias
+Termina la llamada por favor
+Por favor termina esta llamada
+Por favor finaliza la llamada
+Por favor cuelga la llamada
+Por favor cuelga
+Finaliza la llamada
+Termina la llamada
+Cuelga por favor
+Envia un sms a 3498539845
+Envia un mensaje al 3498539845
+Por favor envia un mensaje al 54321
+Manda un sms a Alice
+Envia un mensaje de text al 54321
+Envio un texto a Alice
+Por favor manda un mensaje a Alice
+Por favor manda un sms a Nathalie Black
+Enviale un sms a Alice
+Por favor enviale un sms a Nathalie Black
+Por favor mandale un sms a Nathalie Black
+Por favor enviale un mensaje a Alice
+Por favor mandale un mensaje a Alice
+Manda por favor un mensaje al 54321
+Envia por favor un mensaje al 54321
+Lee mis mensajes
+Reproduce mis mensajes
+Por favor reproduce mis mensajes
+Por favor lee mis mensajes
+Lee mis mensaes por favor
+Reproduce mis mensajes por favor
+Lee por favor mis mensajes
+Reproduce por favor mis mensajes
+Leeme mis mensajes
+Por favor leeme mis mensajes
+Leeme mis mensajes por favor
+Me lees mis mensajes
+Me lees mis mensajes por favor
+Me lees por favor mis mensajes
+Reproduce todos mis mensajes
+Pon 540 AM
+Reproduce 550 AM
+Toca 560 AM
+Por favor pon 570 AM
+Por favor reproduce 580 AM
+Por favor toca 590 AM
+Pon 600 en AM
+Reproduce 610 en AM
+Reproduce 620 en AM por favor
+Pon 630 en AM por favor
+Toca 640 en AM por favor
+Reproduce 650 AM por favor
+Pon 660 AM por favor
+Toca 670 AM por favor
+Pon por favor la estacion 88.1 FM
+Pon la estacion 107.9 FM
+Reproduce la estacion de radio 92.1 FM
+Pon 91.3 FM de la radio
+Reproduce 92.3 FM de la radio
+Reproduce por favor el 105.7 FM
+Pon el 98.5 FM por favor
+Pon 101.9 FM de la radio por fvor
+Toca la estacion 92.1 FM
+Toca la estancion 99.3 FM en la radio
+Pon por favor 91.3 FM
+Por favor reproduce 105.7 FM
+Toca 98.5 en FM
+Reproducir preset 7
+Por favor reproducir preset 6
+Reproduce preset 5
+Por favor reproduce preset 3
+Reproduce por favor preset 8
+Reproducir el preset 6
+Por favor reproducir el preset 2
+Reproduce por favor el preset 1
+Tocar preset 7
+Por favor toca preset 6
+Toca preset 5
+Por favor toca preset 3
+Tocar por favor preset 8
+Tocar el preset 6
+Por favor toca el preset 2
+Toca por favor el preset 1
+Toca el preset 5 por favor
+Toca preset 9 por favor
+Reproduce el preset 5 por favor
+Reproducir el preset 7 por favor
+Reproduce preset 2 por favor
+Reproducir preset 2 por favor
+Tocar el preset 2 por favor
+Toca el preset 1 por favor
+Tocar preset 5 por favor
+Pon el preset 2 por favor
+Por favoir pon el preset 1
+Cambia a FM radio
+Cambia por favor a AM radio
+Cambia al reproductor de CD
+Cambiar por favor a la USB
+Por favor cambia.a reproductor de CD
+Cambiar a AM radio
+Cambiar por favor a la USB
+Por favor cambia a FM radio
+Por favor cambia por favor a AM radio
+Por favor cambia al reproductor de CD
+Por favor cambiar por favor a la USB
+Por favor cambia.a reproductor de CD por favor
+Por favor cambiar a AM radio
+Por favor cambiar por favor a la USB
+Cambia al Auxiliar por favor
+Cambia a usar el USB
+Cambia a usar el USB por favor
+Selecciona ahora el USB
+Selecciona ahora el reproductor de CD
+Por favor cambiar al Auxiliar
+Seleccionar el Auxialiar por favor
+Por favor cambia al Auxiliar
+Cambia al CD
+Por favor cambia al CD
+Cambiar por favor a AM radio
+Cambiar por favor FM radio
+Mas frio
+Mas caliente
+Enfria mas
+Calienta mas
+Sube la temperatura
+Baja la temperatura
+Aumenta la temperatura
+Disminuye la temperatura
+Hazlo mas fresco
+Hazlo mas calido
+Por favor mas frio
+Por favor mas caliente
+Por favor  enfria mas
+Por favor  calienta mas
+Por favor sube la temperatura
+Por favor  baja la temperatura
+Por favor aumenta la temperatura
+Por favor disminuye la temperatura
+Por favor hazlo mas fresco
+Por favor hazlo mas calido
+Enfria mas por favor
+Calienta mas por favor
+Sube la temperatura por favor
+Baja la temperatura por favor
+Hazlo mas calido por favor
+Limpia el parabrisas
+Descongelar el parabrisas
+Activar limpiaparabrisas delanteros
+Mueve el flujo de aire a mis pies
+Limpieza del parabrisas
+Desactivar limpiaparabrisas delanteros
+Activa limpiaparabrisas delanteros
+Activa limpiaparabrisas traseros
+Desactiva limpiaparabrisas delanteros
+Desactivar limpiaparabrisas traseros
+Desactiva limpiaparabrisas traseros
+Cambia el flujo de aire hacia mi
+Apaga el flujo de aire
+Por favor limpia el parabrisas
+Por favor descongelar el parabrisas
+Por favor activar limpiaparabrisas delanteros
+Por favor mueve el flujo de aire a mis pies
+Activa la limpieza del parabrisas
+Por favor desactivar limpiaparabrisas delanteros
+Por favor activa limpiaparabrisas delanteros
+Por favor activa limpiaparabrisas traseros
+Por favor desactiva limpiaparabrisas delanteros
+Por favor desactivar limpiaparabrisas traseros
+Por favor desactiva limpiaparabrisas traseros
+Por favor cambia el flujo de aire hacia mi
+Haz mas frio el lado del pasajero
+Haz mas caliente el lado del piloto
+Enfria mas el lado del conductor
+Calienta mas el lado del copiloto
+Sube la temperatura del lado de conductor
+Baja la temperatura del lado del pasajero
+Aumenta la temperatura del lado del copiloto
+Disminuye la temperatura para el conductor y el piloto
+Hazlo mas fresco el lado del piloto
+Hazlo mas calido el lado del pasajero
+Por favor mas frio para el lado del copiloto
+Por favor mas caliente para el lado del conductor
+Por favor  enfria mas todo el frente
+Por favor  calienta mas todo el frente
+Por favor sube la temperatura para ambos pasajeros
+Por favor  baja la temperatura de ambos pasajeros
+Establecer la misma temparatura para piloto y copiloto
+Pon la misma temperatura en el lado del pasajero y piloto
+Poner la misma temperatura del lado del conductor y pasajero
+Establecer la misma temperatura para el lado del conductor y el lado del pasajero
+Abre la ventana del piloto
+Cierra la ventaja del lado del copiloto
+Cierra todas las ventanas
+Abre todas las ventanas
+Sube las ventanas
+Abre las ventanas
+Cierra las ventanas
+Ventana abierta del lado del pasajero
+Ventana abierta en el lado del conductor
+Abra la ventana delantera derecha
+Cierra la ventana delantera izquierda
+Por favor abre las ventanas
+Por favor cierra todas las ventanas
+Cierra por favor todas las ventanas
+Por favor abre la ventana del piloto
+Por favor abra la ventana del lado del piloto
+Abre la mitad de la ventana del piloto
+Abre una tercera parte la ventana del copiloto
+Abre un poco las ventanas
+Cierra un poco las ventanas
+Enciende la calefaccion del asiento del piloto
+Enciende la calefaccion de los asientos delanteros
+Apagar la calefaccion del volante
+Por favor prende la calefaccion del volante
+Enciende la ventilacion del asiento
+Prende por favor el calentador del asiento
+Enciende el calentador del volante
+Enciende la calefaccion del asiento
+Nivel inferior para calefactor de volante
+Nivel inferior para calefactor de asiento
+Establecer la posicion del asiento
+Activar ventilacion del asiento
+Desactiva ventilacion del asiento
+Por favor activa la ventlacion del asiento
+Enciende el calentador del volante por favor
+Enciende la calefaccion del asiento por favor
+Prenda la calefaccion del asiento
+Por favor prende la calefaccion del asiento del copiloto
+Por favor enciende la calefaccion del asiento del piloto
+Por favor enciende la calefaccion de los asientos delanteros
+Enciende la calefaccion del portavasos por favor
+Enciende la refrigeracion del portavasos por favor
+Por favor conserva tibia mi bebida
+Manten la temperatura ambiente la bebida
+Pon tibia mi bebida
+Enciende la calefaccion del portavasos
+Enciende la refrigeracion del portavasos
+Manten mi  refresco frio
+Manten mi bebida caliente
+Conserva mi cafe caliente
+Por favor apaga la calefaccion del portavasos
+Por favor enciende la refrigeracion del portavasos
+Conserva tibia mi bebida
+Conserva tibia mi bebida por favor
+Enciende por favor la calefaccion del portavasos
+Pon temperatura ambiente el portavasos
+Pon a 30 grados el portavasos
+Enfria mas mi bebida
+Calienta mas mi bebida
+Manten mi bebida fria por favor
+Apaga la luz de la lectura
+Apaga la luz de lectura
+Enciende la luz de lectura
+Haz que la luz de lectura sea mas brillante
+Luz de lectura tenue
+Encender luz de lectura
+Aumenta el brillo de la luz de lectura
+Disminuye el brillo de la luz de lectura
+Apagar la luz de lecutra
+Encender luz de lectura
+Disminuir la luz de la lectura
+Disminuir la luz de lectura
+Bajar el brillo de la luz de lectura
+Aumentar el brillo de la luz de lectura
+Incrementar el brillo de la luz de lectura
+Luz de lectura al maximo
+Luz de lectura al minimo
+Por favor baja el brillo de la luz de lectura
+Por favor aumenta el brillo de la luz de lectura
+Luz de lectura al maximo por favor
+Por favor enciende la luz del copiloto
+Prende la luz del piloto
+Prende la luz de lectura del conductor
+Apaga la luz del conductor
+Enciende la luz de lectura del lado del pasajero
+Enciende la luz de lectura para el pasajero
+Enciende la luz de la cabina
+Enciende la luz de la cabina por favor
+Enciende la luces de atras
+Enciende las luces de la cabina
+Prende las luces delanteras
+Prende las luces traseras
+Enciende la luz de la segunda fila
+Enciende la luz de la tercera fila
+Enciende todas las luces de lectura
+Apaga todas las luces
+Enciende la luz de lectura de la cabina por favor
+Por favor enciende la luz del pasajero
+Enciende la luz de lectura para los pasajeros
+Apaga las luces delanteras
+Prende la luz ambiental violeta
+Cambiar la luz a azul
+Cambiar la luz a blanco
+Por favor enciende la luz ambiental
+Enciende la luz ambiental por favor
+Enciende la luz ambiental
+Cambiar la luz ambiental a verde
+Cambie la luz ambiental a verde
+Cambiar la luz a amarillo
+Por favor cambia la luz ambiental a violeta
+Apaga la luz ambiental
+Pon la luz ambiental naranja
+Pon la luz ambiental por favor
+Pon la luz ambiental de color azul
+Pon la luz ambiental de color azul por favor
+Enciende la luz ambiental blanca
+Cambia la luz ambiental a verde
+Cambiar la luz ambiental a naranja
+Por favor cambia la luz ambienta a amarillo
+Enciende la luz ambiental color verde
+Por favor apaga el limpiaparabrisas delantero
+Apaga el limpiaparabrisas trasero por favor
+Apaga el limpiaparabrisas trasero
+Incrementa la velocidad de los limpiaparabrisas delanteros
+Dismnuye la velocidad de los limpiaparabrisas delanteros
+Activar los limpiaparabrisas delanteros
+Aumentar la velocidad de los limpiaparabrisas delanteros
+Encienda las luces antiniebla delanteras y traseras
+Enciende las luces de emergencia
+Prende las luces de emergencia
+Apaga las luces de emergencia
+Apagar las luces de emergencia por favor
+Encender las luces antiniebla traseros
+Prender las luces antinieblas delanteras
+Apaga los limpiaparabrisas delanteros
+Enciende los limpiaparabrisas traseros
+Baja la velocidad de los limpiaparabrisas traseros
+Apaga los limpiapabrisas delanteros y traseros
+Enviende las luces antiniebla traseras
+Baja la velocidad de los limpiaparabrisas delanteros
+Baja el brillo de la pantalla por favor
+Porfavor ajusta el brillo de la pantalla al maximo
+Por favor ajusta el brillo de la pantalla al minimo
+Ajusta el brillo de la pantalla al maximo
+Ajusta el brillo de la pantalla al minimo
+Baja el brillo de la pantalla
+Disminuye al minimo el brillo de la pantalla
+Aumenta al maximo el brillo de la pantalla
+Encienda la pantalla de visualizacion frontal
+Disminuir el brillo de la pantalla
+Abrir control de brillo de pantalla
+Abrir pagina de Bluetooth
+Abrir pagina de GPS
+Aumentar el brillo de la pantalla
+Abre el bluetooth
+Abre el GPS
+Abre el control de brillo
+Abre la pagina del GPS
+Por favor abre el bluetooth
+Incrementa el brillo de la pantalla
+Cierra el techo corredizo
+Por favor cierra el techo corredizo
+Por favor abre el parasol
+Abre el techo corredizo por favor
+Abrir el techo corredizo
+Abre el techo corredizo
+Cerrar techo corredizo
+Cerrar techo corredizo
+Abre el parasol
+Cerrar parasol
+Por favor abre el techo corredizo
+Cierra el parasol
+Abre el parasol por favor
+Por favor cierra el parasol
+Cierra el parasol por favor
+Abrir el parasol
+Cierra por favor el parasol
+Cierra por favor el techo corredizo
+Abre por favor el techo corredizo
+Abrir el parasol por favor
+Activar bloqueo de ventana
+Bloqueo de ventana
+Desbloquear bloqueo de ventana
+Por favor activar bloqueo de ventana
+Por favor bloqueo de ventana
+Por favor desbloquear bloqueo de ventana
+Activar bloqueo de ventana por favor
+Bloqueo de ventana por favor
+Desbloquear bloqueo de ventana por favor
+Activa bloqueo de ventana
+Bloquear ventanas
+Desactiva bloqueo de ventana
+Acitiva bloqueo de ventana
+Desactivar bloqueo de ventana
+Desactivar bloqueo de ventana por favor
+Desactivar por favor bloquedo de ventana
+Activar por favor bloqueo de ventana
+Activa por favor bloqueo de ventana
+Desactivar bloqueo de ventana por favor
+Desactiva bloqueo de ventana por favor

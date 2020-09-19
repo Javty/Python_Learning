@@ -42,6 +42,9 @@ Scenario6_c = ["Llama a ", "Marca a ", "Por favor marca a ", "Haz una llamada a 
 
 Scenario7_t = ["0", "1", "8", "7"]
 Scenario7_c = ["Marca el ", "Marca ", "Por favor marca ", "Presiona el ", "Aprieta el "]
+
+Scenario8_t = ["Policia", "Emergencias"]
+Scenario8_c = ["Por favor llama a la ", "Llama a la ", "Marca a la ", "Realiza una llamada a la ", "Por favor marca a la ", "Marca por favor a la "]
 if __name__ == '__main__':
     #write_template("File1.txt", template1, combinations1)
     #write_template("File2.txt", template2, combinations2)
@@ -49,4 +52,4 @@ if __name__ == '__main__':
     #write_template("Scenario4.txt", Scenario4_t, Scenario4_c)
     #write_template("Scenario5.txt", Scenario5_t, Scenario5_c)
     #write_template("Scenario6.txt", Scenario6_t, Scenario6_c)
-    write_template("Scenario7.txt", Scenario7_t, Scenario7_c)
+    write_template("Scenario8.txt", Scenario8_t, Scenario8_c)
