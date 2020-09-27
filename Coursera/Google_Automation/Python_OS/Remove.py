@@ -35,11 +35,20 @@ os.listdir()
 
 
 dir = "Test"
-for name in os.listdir():
+for name in os.listdir(dir):
     fullname = os.path.join(dir, name)
     if os.path.isdir(fullname):
         print(f"{fullname} is a directory")
     else:
         print(f"{fullname} is a file")
-os.listdir()
-os.path.isdir()
+
+
+import os
+def create_python_script(filename):
+    comments = "# Start of a new Python program"
+    with open(filename, "w") as file:
+        file.write(comments)
+        path = os.getcwd()
+        fullname = os.path.join(path, file)
+        filesize = os.path.getsize(fullname)
+    return filesize
